@@ -63,3 +63,6 @@ This project involves querying and analyzing data from a MongoDB database contai
 - **Python**: Core programming language used in the project.
 
 ---
+
+**Widchy Joachim**
+*Data Analyst*
